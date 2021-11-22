@@ -271,7 +271,7 @@ export default {
 }
 .panel {
   position: relative;
-  height: 310px;
+  flex: 1;
   border: 1px solid rgba(25, 186, 139, 0.17); /*no*/
   /*background: rgba(255, 255, 255, 0.04) url('~assets/bg/line(1).png');*/
   padding: 0 15px 40px;

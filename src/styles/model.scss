@@ -3,6 +3,10 @@
   width: 100%;
   .column {
     flex: 3;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 0.125rem;
   }
   .column:nth-child(2){
     flex: 5;
