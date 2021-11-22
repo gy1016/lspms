@@ -1,0 +1,11 @@
+#app-main-trend {
+  height: 100%;
+  overflow: hidden;
+  .trend-chart {
+    width: calc(100vw - 0.625rem);
+    height: calc(100vh - 1.875rem);
+    z-index: 3;
+    margin: 10px auto 0;
+  }
+
+}
